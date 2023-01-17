@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "[meteor/meteor source archive]",
+			"uri": "codeql-zip-archive://0-152/Users/drramos/Library/Application Support/Code/User/workspaceStorage/8f08412cebf08e21752e3cbe0998d1e3/GitHub.vscode-codeql/javascript/codeql_db/src.zip"
+		}
+	],
+	"settings": {
+		"omnisharp.autoStart": false
+	}
+}

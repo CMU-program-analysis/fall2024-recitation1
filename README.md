@@ -19,7 +19,7 @@ Setup:
 
 Example Query 1, "Functions with many parameters":
 --------------------------------------------------
-In VSCode, go to `sp2023-recitation1/javascript-queries/` and open the file **ex1.ql**, where you can
+In VSCode, go to `fall2024-recitation1/javascript-queries/` and open the file **ex1.ql**, where you can
 find the following code:
 
 ```
@@ -47,7 +47,7 @@ After running the query, you can press on the result to jump to that file.
 Example Query 2, "If statements with empty then branch":
 --------------------------------------------------------
 
-In `sp2023-recitation1/javascript-queries/` create a new file **ex2.ql** with the following code:
+In `fall2024-recitation1/javascript-queries/` create a new file **ex2.ql** with the following code:
 
 ```
 import javascript
